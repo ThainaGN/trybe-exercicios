@@ -1,0 +1,33 @@
+h1 {
+    font-size: 65px; 
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline ;
+}
+#listcolor {
+    background-color: plum;
+    line-height: 2;
+    font-size:25px;
+}
+.PL {
+    background-color: tomato;
+}
+p {
+  font-weight: 600;
+  font-size: 3em;
+  font-style: oblique;
+  text-align: center;
+}
+body {
+  font-size: 16px;
+  }
+#A {
+  background-color: yellow;
+}
+#V {
+  background-color: red;
+}
+#M {
+  background-color: brown ;
+}
